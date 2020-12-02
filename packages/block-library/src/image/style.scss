@@ -47,6 +47,11 @@
 		margin-bottom: 0.5em;
 	}
 
+	.alignleft,
+	.alignright {
+		max-width: $content-width / 2;
+	}
+
 	.aligncenter {
 		margin-left: auto;
 		margin-right: auto;
